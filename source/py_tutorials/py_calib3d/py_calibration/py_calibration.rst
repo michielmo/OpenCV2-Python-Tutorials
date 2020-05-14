@@ -15,7 +15,7 @@ In this section,
 Basics
 ========
 
-Today's cheap pinhole cameras introduces a lot of distortion to images. Two major distortions are radial distortion and tangential distortion.
+Today's cheap cameras introduce a lot of distortion to images. Two major distortions are radial distortion and tangential distortion.
 
 Due to radial distortion, straight lines will appear curved. Its effect is more as we move away from the center of image. For example, one image is shown below, where two edges of a chess board are marked with red lines. But you can see that border is not a straight line and doesn't match with the red line. All the expected straight lines are bulged out. Visit `Distortion (optics) <http://en.wikipedia.org/wiki/Distortion_%28optics%29>`_ for more details.
 
